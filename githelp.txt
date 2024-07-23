@@ -1,0 +1,8 @@
+git remote add origin https://github.com/juppal01/gitdemo.git this command is used to set our own git folder in cloud vm machine. After this command VM @ cloud will use my folder. 
+
+git status tells the status of git
+git add . (or file name along with extension) will add files to repositary (known as stageing)
+git commit  -m "write your message" for commiting the files) will commit the file to repostary  along with message
+git push origin master (define the branch and push the files to master branch)
+Note:the git will ask user name and password: provide your git username and inplace of password one has to provide 'Fine Grained Token' which one can create by clicking 
+usericon>setting>(onleft side) developer setting>PersonalAccessToken and then providing sufficient permission to user while generating the token.
