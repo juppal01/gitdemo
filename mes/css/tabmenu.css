@@ -1,0 +1,46 @@
+ul.tablist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+	height:612px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #ddd;
+}
+
+/* Float the list items side by side */
+/* ul.tablist li {float: left;} */
+
+/* Style the links inside the list items */
+ul.tablist li a {
+    display: inline-block;
+    width: 185px;
+    height: 50px;
+    color: black;
+    line-height: 3;
+    padding-left: 15px;
+    /*text-align: center;*/
+    /*padding: 14px 16px;*/
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+ul.tablist li a:hover {
+    background-color: #ccc;
+}
+
+/* Create an active/current tablink class */
+.activelink {
+    background-color: #f1f1f1;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+	/*padding: 0px 5px;*/
+	/*padding-left: 10px;*/
+    /*border: 1px solid #ccc;*/
+}
