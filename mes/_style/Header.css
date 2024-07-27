@@ -1,0 +1,19 @@
+/* CSS Document */
+h1{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	color:#4C28DC;
+}
+
+.datetime{font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+color:#4C28DC;
+font-size:11px;
+}
+h2{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif
+	color:#4c28dc;
+}
+.footerclass{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size:10px;
+	color:#4C28DC;
+}
